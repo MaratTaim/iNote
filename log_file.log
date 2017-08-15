@@ -1,0 +1,727 @@
+2017-08-06 17:20:02 INFO  root:30 - info: doGet
+2017-08-06 17:20:02 WARN  root:31 - warn: doGet
+2017-08-06 17:20:02 ERROR root:32 - error: doGet
+2017-08-06 17:20:02 FATAL root:33 - fatal: doGet
+2017-08-06 17:20:02 INFO  root:24 - Show Command Logger
+2017-08-06 17:29:18 INFO  root:24 - Show Command Logger
+2017-08-06 17:32:13 INFO  ActionCommand:24 - Show Command Logger
+2017-08-06 17:32:29 INFO  ActionCommand:24 - Show Command Logger
+2017-08-07 22:40:01 INFO  DAO:28 - UserDAO
+2017-08-07 22:41:44 INFO  DAO:28 - UserDAO
+2017-08-07 22:43:52 INFO  DAO:28 - UserDAO
+2017-08-08 10:52:32 INFO  DAO:28 - UserDAO
+2017-08-08 11:05:31 INFO  Command:24 - Show Command Logger
+2017-08-08 11:05:31 INFO  DAO:28 - UserDAO
+2017-08-08 11:05:33 INFO  DAO:28 - UserDAO
+2017-08-08 11:05:37 INFO  Command:24 - Show Command Logger
+2017-08-08 11:05:37 INFO  DAO:28 - UserDAO
+2017-08-08 11:05:41 INFO  Command:24 - Show Command Logger
+2017-08-08 11:05:41 INFO  DAO:28 - UserDAO
+2017-08-08 11:05:43 INFO  DAO:28 - UserDAO
+2017-08-08 11:34:45 INFO  DAO:28 - UserDAO
+2017-08-08 11:35:59 INFO  DAO:28 - UserDAO
+2017-08-08 11:36:04 INFO  Command:24 - Show Command Logger
+2017-08-08 11:36:04 INFO  DAO:28 - UserDAO
+2017-08-08 11:36:12 INFO  DAO:28 - UserDAO
+2017-08-08 11:36:21 INFO  DAO:28 - UserDAO
+2017-08-08 12:15:18 INFO  DAO:28 - UserDAO
+2017-08-08 12:15:58 INFO  DAO:28 - UserDAO
+2017-08-08 12:16:01 INFO  DAO:28 - UserDAO
+2017-08-08 12:16:10 INFO  Command:24 - Show Command Logger
+2017-08-08 12:16:10 INFO  DAO:28 - UserDAO
+2017-08-08 12:16:12 INFO  DAO:28 - UserDAO
+2017-08-08 12:16:43 INFO  DAO:28 - UserDAO
+2017-08-08 12:17:02 INFO  Command:24 - Show Command Logger
+2017-08-08 12:17:02 INFO  DAO:28 - UserDAO
+2017-08-08 12:17:15 INFO  Command:24 - Show Command Logger
+2017-08-08 12:17:15 INFO  DAO:28 - UserDAO
+2017-08-08 12:17:52 INFO  Command:24 - Show Command Logger
+2017-08-08 12:17:52 INFO  DAO:28 - UserDAO
+2017-08-08 12:18:44 INFO  DAO:28 - UserDAO
+2017-08-08 12:25:55 INFO  DAO:28 - UserDAO
+2017-08-08 12:26:40 INFO  DAO:28 - UserDAO
+2017-08-08 12:27:48 INFO  Command:24 - Show Command Logger
+2017-08-08 12:27:49 INFO  DAO:28 - UserDAO
+2017-08-08 12:28:02 INFO  DAO:28 - UserDAO
+2017-08-08 12:28:02 INFO  DAO:28 - UserDAO
+2017-08-08 12:28:13 INFO  DAO:28 - UserDAO
+2017-08-08 12:28:17 INFO  DAO:28 - UserDAO
+2017-08-08 12:28:26 INFO  Command:24 - Show Command Logger
+2017-08-08 12:28:26 INFO  DAO:28 - UserDAO
+2017-08-08 12:28:29 INFO  DAO:28 - UserDAO
+2017-08-08 12:28:37 INFO  Command:24 - Show Command Logger
+2017-08-08 12:28:37 INFO  DAO:28 - UserDAO
+2017-08-08 12:28:38 INFO  DAO:28 - UserDAO
+2017-08-08 12:28:46 INFO  DAO:28 - UserDAO
+2017-08-08 12:30:02 INFO  DAO:28 - UserDAO
+2017-08-08 12:30:02 INFO  DAO:28 - UserDAO
+2017-08-08 12:30:09 INFO  Command:24 - Show Command Logger
+2017-08-08 12:30:09 INFO  DAO:28 - UserDAO
+2017-08-08 12:30:09 INFO  Command:24 - Show Command Logger
+2017-08-08 12:30:09 INFO  DAO:28 - UserDAO
+2017-08-08 12:30:11 INFO  DAO:28 - UserDAO
+2017-08-08 12:30:12 INFO  DAO:28 - UserDAO
+2017-08-08 12:46:28 INFO  Command:24 - Show Command Logger
+2017-08-08 12:46:28 INFO  DAO:28 - UserDAO
+2017-08-08 12:46:33 INFO  DAO:28 - UserDAO
+2017-08-08 12:46:38 INFO  Command:24 - Show Command Logger
+2017-08-08 12:46:38 INFO  DAO:28 - UserDAO
+2017-08-08 12:46:45 INFO  DAO:28 - UserDAO
+2017-08-08 12:46:48 INFO  Command:24 - Show Command Logger
+2017-08-08 12:46:48 INFO  DAO:28 - UserDAO
+2017-08-08 12:46:58 INFO  DAO:28 - UserDAO
+2017-08-08 12:49:45 INFO  DAO:28 - UserDAO
+2017-08-08 12:49:50 INFO  Command:24 - Show Command Logger
+2017-08-08 12:49:50 INFO  DAO:28 - UserDAO
+2017-08-08 12:49:54 INFO  DAO:28 - UserDAO
+2017-08-08 12:49:56 INFO  DAO:28 - UserDAO
+2017-08-08 12:49:59 INFO  DAO:28 - UserDAO
+2017-08-08 12:54:18 INFO  DAO:28 - UserDAO
+2017-08-08 12:54:26 INFO  DAO:28 - UserDAO
+2017-08-08 12:54:29 INFO  DAO:28 - UserDAO
+2017-08-08 12:54:32 INFO  DAO:28 - UserDAO
+2017-08-08 12:54:46 INFO  DAO:28 - UserDAO
+2017-08-08 12:54:47 INFO  DAO:28 - UserDAO
+2017-08-08 12:54:51 INFO  Command:24 - Show Command Logger
+2017-08-08 12:54:51 INFO  DAO:28 - UserDAO
+2017-08-08 12:54:54 INFO  DAO:28 - UserDAO
+2017-08-08 12:54:59 INFO  DAO:28 - UserDAO
+2017-08-08 12:55:20 INFO  DAO:28 - UserDAO
+2017-08-08 12:55:46 INFO  DAO:28 - UserDAO
+2017-08-08 12:55:53 INFO  DAO:28 - UserDAO
+2017-08-08 12:56:04 INFO  DAO:28 - UserDAO
+2017-08-08 12:56:12 INFO  DAO:28 - UserDAO
+2017-08-08 12:56:16 INFO  DAO:28 - UserDAO
+2017-08-08 12:56:20 INFO  DAO:28 - UserDAO
+2017-08-08 12:56:26 INFO  Command:24 - Show Command Logger
+2017-08-08 12:56:26 INFO  DAO:28 - UserDAO
+2017-08-08 12:58:15 INFO  DAO:28 - UserDAO
+2017-08-08 12:58:18 INFO  Command:24 - Show Command Logger
+2017-08-08 12:58:18 INFO  DAO:28 - UserDAO
+2017-08-08 13:00:26 INFO  DAO:28 - UserDAO
+2017-08-08 13:00:29 INFO  DAO:28 - UserDAO
+2017-08-08 13:00:40 INFO  DAO:28 - UserDAO
+2017-08-08 13:01:41 INFO  DAO:28 - UserDAO
+2017-08-08 13:01:44 INFO  DAO:28 - UserDAO
+2017-08-08 13:01:45 INFO  DAO:28 - UserDAO
+2017-08-08 13:01:46 INFO  Command:24 - Show Command Logger
+2017-08-08 13:01:46 INFO  DAO:28 - UserDAO
+2017-08-08 13:01:47 INFO  DAO:28 - UserDAO
+2017-08-08 13:01:52 INFO  DAO:28 - UserDAO
+2017-08-08 13:02:07 INFO  DAO:28 - UserDAO
+2017-08-08 13:02:30 INFO  DAO:28 - UserDAO
+2017-08-08 13:02:35 INFO  DAO:28 - UserDAO
+2017-08-08 13:02:38 INFO  DAO:28 - UserDAO
+2017-08-08 13:02:40 INFO  DAO:28 - UserDAO
+2017-08-08 13:03:35 INFO  DAO:28 - UserDAO
+2017-08-08 13:03:39 INFO  DAO:28 - UserDAO
+2017-08-08 13:03:41 INFO  DAO:28 - UserDAO
+2017-08-08 13:03:43 INFO  DAO:28 - UserDAO
+2017-08-08 13:04:07 INFO  DAO:28 - UserDAO
+2017-08-08 13:04:18 INFO  DAO:28 - UserDAO
+2017-08-08 13:04:22 INFO  DAO:28 - UserDAO
+2017-08-08 13:05:03 INFO  DAO:28 - UserDAO
+2017-08-08 13:05:10 INFO  DAO:28 - UserDAO
+2017-08-08 13:05:11 INFO  DAO:28 - UserDAO
+2017-08-08 13:05:13 INFO  Command:24 - Show Command Logger
+2017-08-08 13:05:13 INFO  DAO:28 - UserDAO
+2017-08-08 13:05:42 INFO  Command:24 - Show Command Logger
+2017-08-08 13:05:42 INFO  DAO:28 - UserDAO
+2017-08-08 13:06:04 INFO  Command:24 - Show Command Logger
+2017-08-08 13:06:04 INFO  DAO:28 - UserDAO
+2017-08-08 13:06:27 INFO  Command:24 - Show Command Logger
+2017-08-08 13:06:28 INFO  DAO:28 - UserDAO
+2017-08-08 13:08:07 INFO  Command:24 - Show Command Logger
+2017-08-08 13:08:07 INFO  DAO:28 - UserDAO
+2017-08-08 13:08:12 INFO  Command:24 - Show Command Logger
+2017-08-08 13:08:12 INFO  DAO:28 - UserDAO
+2017-08-08 13:09:07 INFO  Command:24 - Show Command Logger
+2017-08-08 13:09:07 INFO  DAO:28 - UserDAO
+2017-08-08 13:09:08 INFO  Command:24 - Show Command Logger
+2017-08-08 13:09:08 INFO  DAO:28 - UserDAO
+2017-08-08 13:09:26 INFO  Command:24 - Show Command Logger
+2017-08-08 13:09:26 INFO  DAO:28 - UserDAO
+2017-08-08 13:09:29 INFO  Command:24 - Show Command Logger
+2017-08-08 13:09:29 INFO  DAO:28 - UserDAO
+2017-08-08 13:09:55 INFO  Command:24 - Show Command Logger
+2017-08-08 13:09:55 INFO  DAO:28 - UserDAO
+2017-08-08 13:09:57 INFO  Command:24 - Show Command Logger
+2017-08-08 13:09:57 INFO  DAO:28 - UserDAO
+2017-08-08 13:09:58 INFO  Command:24 - Show Command Logger
+2017-08-08 13:09:58 INFO  DAO:28 - UserDAO
+2017-08-08 13:09:58 INFO  Command:24 - Show Command Logger
+2017-08-08 13:09:58 INFO  DAO:28 - UserDAO
+2017-08-08 13:10:32 INFO  Command:24 - Show Command Logger
+2017-08-08 13:10:32 INFO  DAO:28 - UserDAO
+2017-08-08 13:10:43 INFO  Command:24 - Show Command Logger
+2017-08-08 13:10:44 INFO  DAO:28 - UserDAO
+2017-08-08 13:10:56 INFO  DAO:28 - UserDAO
+2017-08-08 13:11:00 INFO  DAO:28 - UserDAO
+2017-08-08 13:11:02 INFO  Command:24 - Show Command Logger
+2017-08-08 13:11:02 INFO  DAO:28 - UserDAO
+2017-08-08 13:11:05 INFO  Command:24 - Show Command Logger
+2017-08-08 13:11:05 INFO  DAO:28 - UserDAO
+2017-08-08 13:11:40 INFO  Command:24 - Show Command Logger
+2017-08-08 13:11:40 INFO  DAO:28 - UserDAO
+2017-08-08 13:11:51 INFO  Command:24 - Show Command Logger
+2017-08-08 13:11:51 INFO  DAO:28 - UserDAO
+2017-08-08 13:12:07 INFO  Command:24 - Show Command Logger
+2017-08-08 13:12:07 INFO  DAO:28 - UserDAO
+2017-08-08 13:12:16 INFO  Command:24 - Show Command Logger
+2017-08-08 13:12:16 INFO  DAO:28 - UserDAO
+2017-08-08 13:12:44 INFO  Command:24 - Show Command Logger
+2017-08-08 13:12:44 INFO  DAO:28 - UserDAO
+2017-08-08 13:12:54 INFO  Command:24 - Show Command Logger
+2017-08-08 13:12:54 INFO  DAO:28 - UserDAO
+2017-08-08 13:12:55 INFO  Command:24 - Show Command Logger
+2017-08-08 13:12:55 INFO  DAO:28 - UserDAO
+2017-08-08 13:12:56 INFO  Command:24 - Show Command Logger
+2017-08-08 13:12:56 INFO  DAO:28 - UserDAO
+2017-08-08 13:13:59 INFO  DAO:28 - UserDAO
+2017-08-08 13:14:55 INFO  DAO:28 - UserDAO
+2017-08-08 13:15:13 INFO  DAO:28 - UserDAO
+2017-08-08 13:16:28 INFO  Command:24 - Show Command Logger
+2017-08-08 13:16:28 INFO  DAO:28 - UserDAO
+2017-08-08 13:16:30 INFO  Command:24 - Show Command Logger
+2017-08-08 13:16:30 INFO  DAO:28 - UserDAO
+2017-08-08 13:16:31 INFO  Command:24 - Show Command Logger
+2017-08-08 13:16:31 INFO  DAO:28 - UserDAO
+2017-08-08 13:16:32 INFO  Command:24 - Show Command Logger
+2017-08-08 13:16:32 INFO  DAO:28 - UserDAO
+2017-08-08 13:18:50 INFO  Command:24 - Show Command Logger
+2017-08-08 13:18:50 INFO  DAO:28 - UserDAO
+2017-08-08 13:18:51 INFO  Command:24 - Show Command Logger
+2017-08-08 13:18:51 INFO  DAO:28 - UserDAO
+2017-08-08 13:18:52 INFO  Command:24 - Show Command Logger
+2017-08-08 13:18:52 INFO  DAO:28 - UserDAO
+2017-08-08 13:18:52 INFO  Command:24 - Show Command Logger
+2017-08-08 13:18:52 INFO  DAO:28 - UserDAO
+2017-08-08 13:19:19 INFO  Command:24 - Show Command Logger
+2017-08-08 13:19:19 INFO  DAO:28 - UserDAO
+2017-08-08 13:19:21 INFO  Command:24 - Show Command Logger
+2017-08-08 13:19:21 INFO  DAO:28 - UserDAO
+2017-08-08 13:20:09 INFO  Command:24 - Show Command Logger
+2017-08-08 13:20:09 INFO  DAO:28 - UserDAO
+2017-08-08 13:20:10 INFO  Command:24 - Show Command Logger
+2017-08-08 13:20:10 INFO  DAO:28 - UserDAO
+2017-08-08 13:20:30 INFO  Command:24 - Show Command Logger
+2017-08-08 13:20:30 INFO  DAO:28 - UserDAO
+2017-08-08 13:20:31 INFO  Command:24 - Show Command Logger
+2017-08-08 13:20:31 INFO  DAO:28 - UserDAO
+2017-08-08 13:20:32 INFO  Command:24 - Show Command Logger
+2017-08-08 13:20:32 INFO  DAO:28 - UserDAO
+2017-08-08 13:20:32 INFO  Command:24 - Show Command Logger
+2017-08-08 13:20:32 INFO  DAO:28 - UserDAO
+2017-08-08 13:22:15 INFO  Command:24 - Show Command Logger
+2017-08-08 13:22:15 INFO  DAO:28 - UserDAO
+2017-08-08 13:24:44 INFO  Command:24 - Show Command Logger
+2017-08-08 13:24:44 INFO  DAO:28 - UserDAO
+2017-08-08 13:27:17 INFO  Command:24 - Show Command Logger
+2017-08-08 13:27:17 INFO  DAO:28 - UserDAO
+2017-08-08 14:23:27 INFO  DAO:28 - UserDAO
+2017-08-08 14:24:48 INFO  DAO:28 - UserDAO
+2017-08-08 14:25:55 INFO  DAO:28 - UserDAO
+2017-08-08 14:27:01 INFO  DAO:28 - UserDAO
+2017-08-08 14:34:16 INFO  DAO:28 - UserDAO
+2017-08-08 14:35:49 INFO  DAO:28 - UserDAO
+2017-08-08 14:40:23 INFO  Command:24 - Show Command Logger
+2017-08-08 14:40:23 INFO  DAO:28 - UserDAO
+2017-08-08 14:41:53 INFO  Command:24 - Show Command Logger
+2017-08-08 14:41:53 INFO  DAO:28 - UserDAO
+2017-08-08 14:41:55 INFO  Command:24 - Show Command Logger
+2017-08-08 14:41:55 INFO  DAO:28 - UserDAO
+2017-08-08 14:42:07 INFO  Command:24 - Show Command Logger
+2017-08-08 14:42:07 INFO  DAO:28 - UserDAO
+2017-08-08 14:42:30 INFO  Command:24 - Show Command Logger
+2017-08-08 14:42:30 INFO  DAO:28 - UserDAO
+2017-08-08 14:42:38 INFO  DAO:28 - UserDAO
+2017-08-08 14:43:36 INFO  Command:24 - Show Command Logger
+2017-08-08 14:43:36 INFO  DAO:28 - UserDAO
+2017-08-08 14:44:49 INFO  Command:24 - Show Command Logger
+2017-08-08 14:44:49 INFO  DAO:28 - UserDAO
+2017-08-08 14:44:52 INFO  DAO:28 - UserDAO
+2017-08-08 14:44:53 INFO  DAO:28 - UserDAO
+2017-08-08 14:44:54 INFO  Command:24 - Show Command Logger
+2017-08-08 14:44:54 INFO  DAO:28 - UserDAO
+2017-08-08 14:44:59 INFO  DAO:28 - UserDAO
+2017-08-08 14:45:04 INFO  Command:24 - Show Command Logger
+2017-08-08 14:45:04 INFO  DAO:28 - UserDAO
+2017-08-08 14:45:20 INFO  Command:24 - Show Command Logger
+2017-08-08 14:45:20 INFO  DAO:28 - UserDAO
+2017-08-08 14:45:25 INFO  DAO:28 - UserDAO
+2017-08-08 14:45:26 INFO  DAO:28 - UserDAO
+2017-08-08 14:45:27 INFO  Command:24 - Show Command Logger
+2017-08-08 14:45:27 INFO  DAO:28 - UserDAO
+2017-08-08 14:48:01 INFO  DAO:28 - UserDAO
+2017-08-08 14:48:29 INFO  DAO:28 - UserDAO
+2017-08-08 14:48:32 INFO  Command:24 - Show Command Logger
+2017-08-08 14:48:32 INFO  DAO:28 - UserDAO
+2017-08-08 14:48:35 INFO  Command:24 - Show Command Logger
+2017-08-08 14:48:35 INFO  DAO:28 - UserDAO
+2017-08-08 14:48:36 INFO  DAO:28 - UserDAO
+2017-08-08 14:48:37 INFO  DAO:28 - UserDAO
+2017-08-08 14:48:38 INFO  Command:24 - Show Command Logger
+2017-08-08 14:48:38 INFO  DAO:28 - UserDAO
+2017-08-08 14:52:31 INFO  DAO:28 - UserDAO
+2017-08-08 14:54:42 INFO  DAO:28 - UserDAO
+2017-08-08 14:55:06 INFO  DAO:28 - UserDAO
+2017-08-08 14:55:27 INFO  DAO:28 - UserDAO
+2017-08-08 14:55:32 INFO  DAO:28 - UserDAO
+2017-08-08 14:56:04 INFO  Command:24 - Show Command Logger
+2017-08-08 14:56:04 INFO  DAO:28 - UserDAO
+2017-08-08 14:56:05 INFO  DAO:28 - UserDAO
+2017-08-08 14:56:06 INFO  DAO:28 - UserDAO
+2017-08-08 14:56:07 INFO  Command:24 - Show Command Logger
+2017-08-08 14:56:07 INFO  DAO:28 - UserDAO
+2017-08-08 16:45:10 INFO  DAO:28 - UserDAO
+2017-08-08 16:47:35 INFO  DAO:28 - UserDAO
+2017-08-08 16:49:37 INFO  DAO:28 - UserDAO
+2017-08-08 16:49:40 INFO  DAO:28 - UserDAO
+2017-08-08 16:49:41 INFO  DAO:28 - UserDAO
+2017-08-08 16:49:43 INFO  DAO:28 - UserDAO
+2017-08-08 16:49:45 INFO  DAO:28 - UserDAO
+2017-08-08 16:49:46 INFO  DAO:28 - UserDAO
+2017-08-08 16:49:49 INFO  DAO:28 - UserDAO
+2017-08-08 16:49:51 INFO  DAO:28 - UserDAO
+2017-08-08 16:49:53 INFO  DAO:28 - UserDAO
+2017-08-08 16:50:05 INFO  Command:24 - Show Command Logger
+2017-08-08 16:50:05 INFO  DAO:28 - UserDAO
+2017-08-08 16:50:06 INFO  DAO:28 - UserDAO
+2017-08-08 16:50:08 INFO  DAO:28 - UserDAO
+2017-08-08 16:50:27 INFO  DAO:28 - UserDAO
+2017-08-08 16:50:28 INFO  DAO:28 - UserDAO
+2017-08-08 16:52:10 INFO  DAO:28 - UserDAO
+2017-08-08 16:52:12 INFO  DAO:28 - UserDAO
+2017-08-08 16:52:14 INFO  DAO:28 - UserDAO
+2017-08-08 16:52:15 INFO  DAO:28 - UserDAO
+2017-08-08 16:52:20 INFO  DAO:28 - UserDAO
+2017-08-08 16:52:22 INFO  DAO:28 - UserDAO
+2017-08-08 16:52:45 INFO  DAO:28 - UserDAO
+2017-08-08 16:52:46 INFO  DAO:28 - UserDAO
+2017-08-08 16:52:47 INFO  DAO:28 - UserDAO
+2017-08-08 16:52:48 INFO  DAO:28 - UserDAO
+2017-08-10 02:37:44 INFO  DAO:28 - UserDAO
+2017-08-10 02:37:51 INFO  DAO:28 - UserDAO
+2017-08-10 02:37:52 INFO  DAO:28 - UserDAO
+2017-08-10 02:37:54 INFO  DAO:28 - UserDAO
+2017-08-10 02:37:56 INFO  DAO:28 - UserDAO
+2017-08-10 02:37:57 INFO  DAO:28 - UserDAO
+2017-08-10 02:37:58 INFO  DAO:28 - UserDAO
+2017-08-10 02:38:44 INFO  DAO:28 - UserDAO
+2017-08-10 02:38:50 INFO  DAO:28 - UserDAO
+2017-08-10 02:38:52 INFO  DAO:28 - UserDAO
+2017-08-10 02:38:54 INFO  DAO:28 - UserDAO
+2017-08-10 02:38:55 INFO  DAO:28 - UserDAO
+2017-08-10 02:39:14 INFO  DAO:28 - UserDAO
+2017-08-10 02:39:15 INFO  DAO:28 - UserDAO
+2017-08-10 02:39:17 INFO  DAO:28 - UserDAO
+2017-08-10 02:39:17 INFO  DAO:28 - UserDAO
+2017-08-10 02:41:17 INFO  DAO:28 - UserDAO
+2017-08-10 02:41:19 INFO  DAO:28 - UserDAO
+2017-08-10 02:41:21 INFO  DAO:28 - UserDAO
+2017-08-10 02:41:22 INFO  DAO:28 - UserDAO
+2017-08-10 02:42:50 INFO  DAO:28 - UserDAO
+2017-08-10 02:42:57 INFO  DAO:28 - UserDAO
+2017-08-10 02:42:59 INFO  DAO:28 - UserDAO
+2017-08-10 02:43:00 INFO  DAO:28 - UserDAO
+2017-08-10 02:43:01 INFO  DAO:28 - UserDAO
+2017-08-10 02:43:02 INFO  DAO:28 - UserDAO
+2017-08-10 02:43:04 INFO  DAO:28 - UserDAO
+2017-08-10 02:44:30 INFO  DAO:28 - UserDAO
+2017-08-10 02:44:32 INFO  DAO:28 - UserDAO
+2017-08-10 02:44:33 INFO  DAO:28 - UserDAO
+2017-08-10 02:44:34 INFO  DAO:28 - UserDAO
+2017-08-10 02:44:35 INFO  DAO:28 - UserDAO
+2017-08-10 02:44:36 INFO  DAO:28 - UserDAO
+2017-08-10 02:45:57 INFO  DAO:28 - UserDAO
+2017-08-10 02:45:59 INFO  DAO:28 - UserDAO
+2017-08-10 02:46:00 INFO  DAO:28 - UserDAO
+2017-08-10 02:46:01 INFO  DAO:28 - UserDAO
+2017-08-10 02:46:02 INFO  DAO:28 - UserDAO
+2017-08-10 02:46:03 INFO  DAO:28 - UserDAO
+2017-08-10 02:47:40 INFO  DAO:28 - UserDAO
+2017-08-10 02:47:42 INFO  DAO:28 - UserDAO
+2017-08-10 02:47:43 INFO  DAO:28 - UserDAO
+2017-08-10 02:47:45 INFO  DAO:28 - UserDAO
+2017-08-10 02:47:46 INFO  DAO:28 - UserDAO
+2017-08-10 02:47:47 INFO  DAO:28 - UserDAO
+2017-08-10 02:48:21 INFO  DAO:28 - UserDAO
+2017-08-10 02:48:26 INFO  DAO:28 - UserDAO
+2017-08-10 02:49:47 INFO  DAO:28 - UserDAO
+2017-08-10 02:49:53 INFO  DAO:28 - UserDAO
+2017-08-10 02:49:55 INFO  DAO:28 - UserDAO
+2017-08-10 02:49:56 INFO  DAO:28 - UserDAO
+2017-08-10 02:49:57 INFO  DAO:28 - UserDAO
+2017-08-10 02:49:58 INFO  DAO:28 - UserDAO
+2017-08-10 02:49:59 INFO  DAO:28 - UserDAO
+2017-08-10 02:50:23 INFO  DAO:28 - UserDAO
+2017-08-10 02:50:26 INFO  DAO:28 - UserDAO
+2017-08-10 02:50:26 INFO  DAO:28 - UserDAO
+2017-08-10 02:50:50 INFO  DAO:28 - UserDAO
+2017-08-10 02:50:52 INFO  DAO:28 - UserDAO
+2017-08-10 02:50:53 INFO  DAO:28 - UserDAO
+2017-08-10 02:52:49 INFO  DAO:28 - UserDAO
+2017-08-10 02:52:51 INFO  DAO:28 - UserDAO
+2017-08-10 02:52:52 INFO  DAO:28 - UserDAO
+2017-08-10 15:58:53 INFO  DAO:28 - UserDAO
+2017-08-10 15:59:07 INFO  Command:24 - Show Command Logger
+2017-08-10 15:59:07 INFO  DAO:28 - UserDAO
+2017-08-10 15:59:08 INFO  DAO:28 - UserDAO
+2017-08-10 15:59:12 INFO  DAO:28 - UserDAO
+2017-08-10 15:59:14 INFO  Command:24 - Show Command Logger
+2017-08-10 15:59:14 INFO  DAO:28 - UserDAO
+2017-08-10 19:42:44 INFO  LoginCommand:30 - execute start
+2017-08-10 19:42:46 INFO  ClientDAO:52 - client admin login
+2017-08-10 19:42:46 INFO  LoginCommand:87 - execute end
+2017-08-10 19:42:50 INFO  CreateCommand:17 - execute start
+2017-08-10 19:42:50 INFO  CreateCommand:19 - execute end
+2017-08-10 19:42:51 INFO  ShowCommand:25 - execute start
+2017-08-10 19:42:51 INFO  ShowCommand:48 - execute end
+2017-08-10 19:42:52 INFO  GroupCommand:25 - execute start
+2017-08-10 19:42:52 INFO  GroupCommand:52 - execute end
+2017-08-10 19:42:53 INFO  BirthdayCommand:24 - execute start
+2017-08-10 19:42:53 INFO  BirthdayCommand:43 - execute end
+2017-08-10 19:42:54 INFO  GroupCommand:25 - execute start
+2017-08-10 19:42:54 INFO  GroupCommand:52 - execute end
+2017-08-10 19:42:56 INFO  GroupCommand:25 - execute start
+2017-08-10 19:42:56 INFO  GroupCommand:52 - execute end
+2017-08-10 19:43:01 INFO  GroupCommand:25 - execute start
+2017-08-10 19:43:01 INFO  GroupCommand:52 - execute end
+2017-08-10 19:43:02 INFO  ShowCommand:25 - execute start
+2017-08-10 19:43:02 INFO  ShowCommand:48 - execute end
+2017-08-10 19:43:05 INFO  LanguageCommand:26 - execute start
+2017-08-10 19:43:05 INFO  LanguageCommand:58 - execute end
+2017-08-10 19:43:06 INFO  LanguageCommand:26 - execute start
+2017-08-10 19:43:06 INFO  LanguageCommand:58 - execute end
+2017-08-10 19:43:15 INFO  SearchCommand:25 - execute start
+2017-08-10 19:43:15 INFO  SearchCommand:50 - execute end
+2017-08-12 15:12:04 INFO  EmptyCommand:17 - execute start
+2017-08-12 15:12:04 INFO  EmptyCommand:18 - execute end
+2017-08-12 15:12:20 INFO  EmptyCommand:17 - execute start
+2017-08-12 15:12:20 INFO  EmptyCommand:18 - execute end
+2017-08-12 15:12:28 INFO  LoginCommand:30 - execute start
+2017-08-12 15:12:29 INFO  ClientDAO:52 - client admin login
+2017-08-12 15:12:31 INFO  LoginCommand:87 - execute end
+2017-08-12 15:12:41 INFO  ViewCommand:25 - execute start
+2017-08-12 15:12:41 INFO  ViewCommand:50 - execute end
+2017-08-12 15:12:49 INFO  CreateCommand:17 - execute start
+2017-08-12 15:12:49 INFO  CreateCommand:19 - execute end
+2017-08-12 15:12:54 INFO  GroupCommand:25 - execute start
+2017-08-12 15:12:54 INFO  GroupCommand:52 - execute end
+2017-08-12 15:13:02 INFO  GroupCommand:25 - execute start
+2017-08-12 15:13:02 INFO  GroupCommand:52 - execute end
+2017-08-12 15:13:05 INFO  ShowCommand:25 - execute start
+2017-08-12 15:13:05 INFO  ShowCommand:48 - execute end
+2017-08-12 15:13:07 INFO  LanguageCommand:26 - execute start
+2017-08-12 15:13:07 INFO  LanguageCommand:58 - execute end
+2017-08-12 15:13:08 INFO  LanguageCommand:26 - execute start
+2017-08-12 15:13:08 INFO  LanguageCommand:58 - execute end
+2017-08-12 15:13:11 INFO  LanguageCommand:26 - execute start
+2017-08-12 15:13:11 INFO  LanguageCommand:58 - execute end
+2017-08-12 15:13:12 INFO  LanguageCommand:26 - execute start
+2017-08-12 15:13:12 INFO  LanguageCommand:58 - execute end
+2017-08-12 15:13:14 INFO  GroupCommand:25 - execute start
+2017-08-12 15:13:14 INFO  GroupCommand:52 - execute end
+2017-08-12 15:13:15 INFO  CreateCommand:17 - execute start
+2017-08-12 15:13:15 INFO  CreateCommand:19 - execute end
+2017-08-12 15:13:17 INFO  BirthdayCommand:24 - execute start
+2017-08-12 15:13:17 INFO  BirthdayCommand:43 - execute end
+2017-08-13 16:28:37 INFO  EmptyCommand:17 - execute start
+2017-08-13 16:28:37 INFO  EmptyCommand:18 - execute end
+2017-08-13 16:28:47 INFO  EmptyCommand:17 - execute start
+2017-08-13 16:28:47 INFO  EmptyCommand:18 - execute end
+2017-08-13 16:29:08 INFO  LoginCommand:30 - execute start
+2017-08-13 16:29:12 INFO  ClientDAO:52 - client admin login
+2017-08-13 16:29:12 INFO  LoginCommand:87 - execute end
+2017-08-13 16:29:19 INFO  LanguageCommand:26 - execute start
+2017-08-13 16:29:19 INFO  LanguageCommand:58 - execute end
+2017-08-13 16:29:21 INFO  LanguageCommand:26 - execute start
+2017-08-13 16:29:21 INFO  LanguageCommand:58 - execute end
+2017-08-13 16:29:25 INFO  ViewCommand:25 - execute start
+2017-08-13 16:29:25 INFO  ViewCommand:50 - execute end
+2017-08-13 16:29:31 INFO  DeleteCommand:24 - execute start
+2017-08-13 16:29:31 INFO  DeleteCommand:48 - execute end
+2017-08-13 16:29:51 INFO  CreateCommand:17 - execute start
+2017-08-13 16:29:51 INFO  CreateCommand:19 - execute end
+2017-08-13 16:29:56 INFO  GroupCommand:25 - execute start
+2017-08-13 16:29:56 INFO  GroupCommand:52 - execute end
+2017-08-13 16:30:00 INFO  GroupCommand:25 - execute start
+2017-08-13 16:30:00 INFO  GroupCommand:52 - execute end
+2017-08-13 16:30:02 INFO  BirthdayCommand:24 - execute start
+2017-08-13 16:30:02 INFO  BirthdayCommand:43 - execute end
+2017-08-13 16:30:05 INFO  ViewCommand:25 - execute start
+2017-08-13 16:30:05 INFO  ViewCommand:50 - execute end
+2017-08-13 16:30:08 INFO  ShowCommand:25 - execute start
+2017-08-13 16:30:08 INFO  ShowCommand:48 - execute end
+2017-08-13 16:30:32 INFO  CreateCommand:17 - execute start
+2017-08-13 16:30:32 INFO  CreateCommand:19 - execute end
+2017-08-13 16:30:44 INFO  ShowCommand:25 - execute start
+2017-08-13 16:30:44 INFO  ShowCommand:48 - execute end
+2017-08-13 16:32:39 INFO  LanguageCommand:26 - execute start
+2017-08-13 16:32:39 INFO  LanguageCommand:58 - execute end
+2017-08-13 16:32:41 INFO  GroupCommand:25 - execute start
+2017-08-13 16:32:41 INFO  GroupCommand:52 - execute end
+2017-08-13 16:32:42 INFO  CreateCommand:17 - execute start
+2017-08-13 16:32:42 INFO  CreateCommand:19 - execute end
+2017-08-13 16:32:42 INFO  ShowCommand:25 - execute start
+2017-08-13 16:32:42 INFO  ShowCommand:48 - execute end
+2017-08-13 16:32:45 INFO  BirthdayCommand:24 - execute start
+2017-08-13 16:32:45 INFO  BirthdayCommand:43 - execute end
+2017-08-13 16:32:46 INFO  GroupCommand:25 - execute start
+2017-08-13 16:32:46 INFO  GroupCommand:52 - execute end
+2017-08-13 16:32:47 INFO  CreateCommand:17 - execute start
+2017-08-13 16:32:47 INFO  CreateCommand:19 - execute end
+2017-08-13 16:32:48 INFO  ShowCommand:25 - execute start
+2017-08-13 16:32:48 INFO  ShowCommand:48 - execute end
+2017-08-13 18:27:37 INFO  EmptyCommand:17 - execute start
+2017-08-13 18:27:37 INFO  EmptyCommand:18 - execute end
+2017-08-13 18:27:56 INFO  EmptyCommand:17 - execute start
+2017-08-13 18:27:56 INFO  EmptyCommand:18 - execute end
+2017-08-13 18:28:20 INFO  LoginCommand:30 - execute start
+2017-08-13 18:28:22 INFO  ClientDAO:52 - client admin login
+2017-08-13 18:28:22 INFO  LoginCommand:87 - execute end
+2017-08-13 18:28:27 INFO  LanguageCommand:26 - execute start
+2017-08-13 18:28:27 INFO  LanguageCommand:58 - execute end
+2017-08-13 18:28:28 INFO  LanguageCommand:26 - execute start
+2017-08-13 18:28:28 INFO  LanguageCommand:58 - execute end
+2017-08-13 19:16:34 INFO  EmptyCommand:17 - execute start
+2017-08-13 19:16:34 INFO  EmptyCommand:18 - execute end
+2017-08-13 19:16:37 INFO  EmptyCommand:17 - execute start
+2017-08-13 19:16:37 INFO  EmptyCommand:18 - execute end
+2017-08-13 19:16:45 INFO  LoginCommand:30 - execute start
+2017-08-13 19:16:46 INFO  ClientDAO:52 - client admin login
+2017-08-13 19:16:46 INFO  LoginCommand:87 - execute end
+2017-08-13 19:16:51 INFO  LanguageCommand:26 - execute start
+2017-08-13 19:16:51 INFO  LanguageCommand:58 - execute end
+2017-08-13 19:16:54 INFO  LanguageCommand:26 - execute start
+2017-08-13 19:16:54 INFO  LanguageCommand:58 - execute end
+2017-08-13 19:16:55 INFO  LanguageCommand:26 - execute start
+2017-08-13 19:16:55 INFO  LanguageCommand:58 - execute end
+2017-08-13 19:16:56 INFO  GroupCommand:25 - execute start
+2017-08-13 19:16:56 INFO  GroupCommand:52 - execute end
+2017-08-13 19:16:58 INFO  ShowCommand:25 - execute start
+2017-08-13 19:16:58 INFO  ShowCommand:48 - execute end
+2017-08-13 19:17:00 INFO  LanguageCommand:26 - execute start
+2017-08-13 19:17:00 INFO  LanguageCommand:58 - execute end
+2017-08-13 19:17:24 INFO  LanguageCommand:26 - execute start
+2017-08-13 19:17:24 INFO  LanguageCommand:58 - execute end
+2017-08-13 19:17:29 INFO  LanguageCommand:26 - execute start
+2017-08-13 19:17:29 INFO  LanguageCommand:58 - execute end
+2017-08-13 19:17:36 INFO  LanguageCommand:26 - execute start
+2017-08-13 19:17:37 INFO  LanguageCommand:58 - execute end
+2017-08-13 19:17:39 INFO  LanguageCommand:26 - execute start
+2017-08-13 19:17:39 INFO  LanguageCommand:58 - execute end
+2017-08-13 19:17:41 INFO  LanguageCommand:26 - execute start
+2017-08-13 19:17:41 INFO  LanguageCommand:58 - execute end
+2017-08-13 19:17:42 INFO  LanguageCommand:26 - execute start
+2017-08-13 19:17:42 INFO  LanguageCommand:58 - execute end
+2017-08-13 19:17:43 INFO  LanguageCommand:26 - execute start
+2017-08-13 19:17:43 INFO  LanguageCommand:58 - execute end
+2017-08-13 19:17:45 INFO  CreateCommand:17 - execute start
+2017-08-13 19:17:45 INFO  CreateCommand:19 - execute end
+2017-08-13 19:17:46 INFO  ShowCommand:25 - execute start
+2017-08-13 19:17:46 INFO  ShowCommand:48 - execute end
+2017-08-13 19:17:47 INFO  BirthdayCommand:24 - execute start
+2017-08-13 19:17:47 INFO  BirthdayCommand:43 - execute end
+2017-08-13 19:17:49 INFO  ShowCommand:25 - execute start
+2017-08-13 19:17:49 INFO  ShowCommand:48 - execute end
+2017-08-13 19:17:50 INFO  LanguageCommand:26 - execute start
+2017-08-13 19:17:50 INFO  LanguageCommand:58 - execute end
+2017-08-13 19:18:14 INFO  DeleteCommand:24 - execute start
+2017-08-13 19:18:14 INFO  DeleteCommand:51 - execute end
+2017-08-13 19:18:18 INFO  DeleteCommand:24 - execute start
+2017-08-13 19:18:18 WARN  UserDAO:96 - user 7 delete error
+2017-08-13 19:18:18 INFO  DeleteCommand:51 - execute end
+2017-08-13 19:18:21 INFO  LanguageCommand:26 - execute start
+2017-08-13 19:18:21 INFO  LanguageCommand:58 - execute end
+2017-08-13 19:20:00 INFO  LoginCommand:30 - execute start
+2017-08-13 19:20:00 INFO  ClientDAO:52 - client admin login
+2017-08-13 19:20:00 INFO  LoginCommand:87 - execute end
+2017-08-13 19:20:03 INFO  LanguageCommand:26 - execute start
+2017-08-13 19:20:03 INFO  LanguageCommand:58 - execute end
+2017-08-13 19:20:04 INFO  LanguageCommand:26 - execute start
+2017-08-13 19:20:04 INFO  LanguageCommand:58 - execute end
+2017-08-13 19:20:06 INFO  LanguageCommand:26 - execute start
+2017-08-13 19:20:06 INFO  LanguageCommand:58 - execute end
+2017-08-13 19:20:07 INFO  LanguageCommand:26 - execute start
+2017-08-13 19:20:07 INFO  LanguageCommand:58 - execute end
+2017-08-13 19:20:09 INFO  BirthdayCommand:24 - execute start
+2017-08-13 19:20:09 INFO  BirthdayCommand:43 - execute end
+2017-08-13 19:20:10 INFO  ShowCommand:25 - execute start
+2017-08-13 19:20:10 INFO  ShowCommand:48 - execute end
+2017-08-13 19:20:13 INFO  LanguageCommand:26 - execute start
+2017-08-13 19:20:13 INFO  LanguageCommand:58 - execute end
+2017-08-13 19:20:14 INFO  BirthdayCommand:24 - execute start
+2017-08-13 19:20:14 INFO  BirthdayCommand:43 - execute end
+2017-08-13 19:20:16 INFO  ShowCommand:25 - execute start
+2017-08-13 19:20:16 INFO  ShowCommand:48 - execute end
+2017-08-13 19:20:22 INFO  SearchCommand:25 - execute start
+2017-08-13 19:20:23 INFO  SearchCommand:50 - execute end
+2017-08-13 19:27:41 INFO  CreateCommand:17 - execute start
+2017-08-13 19:27:41 INFO  CreateCommand:19 - execute end
+2017-08-13 19:27:42 INFO  ShowCommand:25 - execute start
+2017-08-13 19:27:42 INFO  ShowCommand:48 - execute end
+2017-08-13 19:27:44 INFO  LanguageCommand:26 - execute start
+2017-08-13 19:27:44 INFO  LanguageCommand:58 - execute end
+2017-08-13 19:27:46 INFO  LanguageCommand:26 - execute start
+2017-08-13 19:27:46 INFO  LanguageCommand:58 - execute end
+2017-08-14 02:54:10 INFO  EmptyCommand:18 - execute start
+2017-08-14 02:54:10 INFO  EmptyCommand:19 - execute end
+2017-08-14 02:54:34 INFO  EmptyCommand:18 - execute start
+2017-08-14 02:54:34 INFO  EmptyCommand:19 - execute end
+2017-08-14 02:54:58 INFO  EmptyCommand:18 - execute start
+2017-08-14 02:54:58 INFO  EmptyCommand:19 - execute end
+2017-08-14 02:55:11 INFO  LoginCommand:29 - execute start
+2017-08-14 02:55:14 WARN  ClientDAO:56 - client login error
+2017-08-14 02:55:14 ERROR LoginCommand:83 - execute error
+2017-08-14 02:55:14 INFO  LoginCommand:86 - execute end
+2017-08-14 02:57:10 INFO  LoginCommand:29 - execute start
+2017-08-14 02:57:10 WARN  ClientDAO:56 - client login error
+2017-08-14 02:57:10 ERROR LoginCommand:83 - execute error
+2017-08-14 02:57:10 INFO  LoginCommand:86 - execute end
+2017-08-14 02:57:38 INFO  LoginCommand:29 - execute start
+2017-08-14 02:57:38 WARN  ClientDAO:56 - client login error
+2017-08-14 02:57:38 ERROR LoginCommand:83 - execute error
+2017-08-14 02:57:38 INFO  LoginCommand:86 - execute end
+2017-08-14 03:01:07 INFO  LoginCommand:29 - execute start
+2017-08-14 03:01:08 WARN  ClientDAO:56 - client login error
+2017-08-14 03:01:08 INFO  LoginCommand:86 - execute end
+2017-08-14 03:01:20 INFO  LoginCommand:29 - execute start
+2017-08-14 03:01:20 WARN  ClientDAO:56 - client login error
+2017-08-14 03:01:20 INFO  LoginCommand:86 - execute end
+2017-08-14 03:01:40 INFO  LoginCommand:29 - execute start
+2017-08-14 03:01:40 INFO  ClientDAO:52 - client admin login
+2017-08-14 03:01:40 INFO  LoginCommand:86 - execute end
+2017-08-14 03:01:48 INFO  LanguageCommand:26 - execute start
+2017-08-14 03:01:48 INFO  LanguageCommand:58 - execute end
+2017-08-14 03:01:50 INFO  CreateCommand:17 - execute start
+2017-08-14 03:01:50 INFO  CreateCommand:19 - execute end
+2017-08-14 03:08:08 INFO  LoginCommand:29 - execute start
+2017-08-14 03:08:08 INFO  ClientDAO:53 - client admin login
+2017-08-14 03:08:08 INFO  LoginCommand:86 - execute end
+2017-08-14 03:08:11 INFO  LanguageCommand:26 - execute start
+2017-08-14 03:08:11 INFO  LanguageCommand:58 - execute end
+2017-08-14 14:45:46 INFO  EmptyCommand:18 - execute start
+2017-08-14 14:45:46 INFO  EmptyCommand:19 - execute end
+2017-08-14 14:45:57 INFO  EmptyCommand:18 - execute start
+2017-08-14 14:45:57 INFO  EmptyCommand:19 - execute end
+2017-08-14 14:46:27 INFO  LoginCommand:29 - execute start
+2017-08-14 14:46:29 INFO  ClientDAO:53 - client admin login
+2017-08-14 14:46:29 INFO  LoginCommand:86 - execute end
+2017-08-14 14:46:34 INFO  LanguageCommand:26 - execute start
+2017-08-14 14:46:34 INFO  LanguageCommand:58 - execute end
+2017-08-14 14:46:35 INFO  CreateCommand:17 - execute start
+2017-08-14 14:46:35 INFO  CreateCommand:19 - execute end
+2017-08-14 14:46:37 INFO  ShowCommand:25 - execute start
+2017-08-14 14:46:37 INFO  ShowCommand:48 - execute end
+2017-08-14 14:46:38 INFO  GroupCommand:25 - execute start
+2017-08-14 14:46:38 INFO  GroupCommand:52 - execute end
+2017-08-14 14:46:41 INFO  CreateCommand:17 - execute start
+2017-08-14 14:46:41 INFO  CreateCommand:19 - execute end
+2017-08-14 14:46:43 INFO  ShowCommand:25 - execute start
+2017-08-14 14:46:43 INFO  ShowCommand:48 - execute end
+2017-08-14 14:46:44 INFO  BirthdayCommand:24 - execute start
+2017-08-14 14:46:44 INFO  BirthdayCommand:43 - execute end
+2017-08-14 14:46:46 INFO  ShowCommand:25 - execute start
+2017-08-14 14:46:46 INFO  ShowCommand:48 - execute end
+2017-08-14 14:49:58 INFO  LoginCommand:29 - execute start
+2017-08-14 14:49:58 INFO  ClientDAO:53 - client admin login
+2017-08-14 14:49:58 INFO  LoginCommand:86 - execute end
+2017-08-14 14:50:02 INFO  LanguageCommand:26 - execute start
+2017-08-14 14:50:02 INFO  LanguageCommand:58 - execute end
+2017-08-14 14:59:06 INFO  LoginCommand:29 - execute start
+2017-08-14 14:59:07 INFO  ClientDAO:53 - client admin login
+2017-08-14 14:59:07 INFO  LoginCommand:86 - execute end
+2017-08-14 14:59:09 INFO  LanguageCommand:26 - execute start
+2017-08-14 14:59:09 INFO  LanguageCommand:58 - execute end
+2017-08-14 14:59:11 INFO  CreateCommand:17 - execute start
+2017-08-14 14:59:11 INFO  CreateCommand:19 - execute end
+2017-08-14 14:59:17 INFO  GroupCommand:25 - execute start
+2017-08-14 14:59:17 INFO  GroupCommand:52 - execute end
+2017-08-14 14:59:18 INFO  ShowCommand:25 - execute start
+2017-08-14 14:59:18 INFO  ShowCommand:48 - execute end
+2017-08-14 14:59:20 INFO  LanguageCommand:26 - execute start
+2017-08-14 14:59:20 INFO  LanguageCommand:58 - execute end
+2017-08-14 14:59:38 INFO  LoginCommand:29 - execute start
+2017-08-14 14:59:38 INFO  ClientDAO:53 - client admin login
+2017-08-14 14:59:38 INFO  LoginCommand:86 - execute end
+2017-08-14 14:59:41 INFO  CreateCommand:17 - execute start
+2017-08-14 14:59:41 INFO  CreateCommand:19 - execute end
+2017-08-14 14:59:42 INFO  ShowCommand:25 - execute start
+2017-08-14 14:59:42 INFO  ShowCommand:48 - execute end
+2017-08-14 15:01:14 INFO  LoginCommand:29 - execute start
+2017-08-14 15:01:14 INFO  ClientDAO:53 - client admin login
+2017-08-14 15:01:14 INFO  LoginCommand:86 - execute end
+2017-08-14 15:01:18 INFO  LanguageCommand:26 - execute start
+2017-08-14 15:01:18 INFO  LanguageCommand:58 - execute end
+2017-08-14 15:01:19 INFO  GroupCommand:25 - execute start
+2017-08-14 15:01:19 INFO  GroupCommand:52 - execute end
+2017-08-14 15:01:21 INFO  ShowCommand:25 - execute start
+2017-08-14 15:01:21 INFO  ShowCommand:48 - execute end
+2017-08-14 15:01:24 INFO  SearchCommand:25 - execute start
+2017-08-14 15:01:25 INFO  SearchCommand:50 - execute end
+2017-08-14 15:01:27 INFO  LanguageCommand:26 - execute start
+2017-08-14 15:01:27 INFO  LanguageCommand:58 - execute end
+2017-08-14 15:24:08 INFO  LoginCommand:29 - execute start
+2017-08-14 15:24:08 WARN  ClientDAO:57 - client login error
+2017-08-14 15:24:08 INFO  LoginCommand:86 - execute end
+2017-08-14 15:24:23 INFO  CreateCommand:17 - execute start
+2017-08-14 15:24:23 INFO  CreateCommand:19 - execute end
+2017-08-14 15:24:26 INFO  ShowCommand:25 - execute start
+2017-08-14 15:24:26 INFO  ShowCommand:48 - execute end
+2017-08-14 15:24:27 INFO  LanguageCommand:26 - execute start
+2017-08-14 15:24:27 INFO  LanguageCommand:58 - execute end
+2017-08-14 15:24:28 INFO  CreateCommand:17 - execute start
+2017-08-14 15:24:28 INFO  CreateCommand:19 - execute end
+2017-08-14 15:24:33 INFO  ShowCommand:25 - execute start
+2017-08-14 15:24:33 INFO  ShowCommand:48 - execute end
+2017-08-14 15:25:52 INFO  LoginCommand:29 - execute start
+2017-08-14 15:25:53 WARN  ClientDAO:57 - client login error
+2017-08-14 15:25:53 INFO  LoginCommand:86 - execute end
+2017-08-14 15:27:20 INFO  LoginCommand:29 - execute start
+2017-08-14 15:27:20 WARN  ClientDAO:57 - client login error
+2017-08-14 15:27:20 INFO  LoginCommand:86 - execute end
+2017-08-14 15:28:18 INFO  LoginCommand:29 - execute start
+2017-08-14 15:28:18 INFO  ClientDAO:53 - client admin login
+2017-08-14 15:28:18 INFO  LoginCommand:86 - execute end
+2017-08-14 15:28:21 INFO  LanguageCommand:26 - execute start
+2017-08-14 15:28:21 INFO  LanguageCommand:58 - execute end
+2017-08-14 15:28:23 INFO  GroupCommand:25 - execute start
+2017-08-14 15:28:23 INFO  GroupCommand:52 - execute end
+2017-08-14 15:28:24 INFO  CreateCommand:17 - execute start
+2017-08-14 15:28:24 INFO  CreateCommand:19 - execute end
+2017-08-14 15:28:25 INFO  ShowCommand:25 - execute start
+2017-08-14 15:28:25 INFO  ShowCommand:48 - execute end
+2017-08-14 15:29:10 INFO  LoginCommand:29 - execute start
+2017-08-14 15:29:10 WARN  ClientDAO:57 - client login error
+2017-08-14 15:29:10 INFO  LoginCommand:88 - execute end
+2017-08-14 15:30:18 INFO  LoginCommand:29 - execute start
+2017-08-14 15:30:19 WARN  ClientDAO:57 - client login error
+2017-08-14 15:30:19 INFO  LoginCommand:86 - execute end
+2017-08-14 15:30:27 INFO  LoginCommand:29 - execute start
+2017-08-14 15:30:27 INFO  ClientDAO:53 - client admin login
+2017-08-14 15:30:27 INFO  LoginCommand:86 - execute end
+2017-08-14 15:30:34 INFO  LoginCommand:29 - execute start
+2017-08-14 15:30:34 WARN  ClientDAO:57 - client login error
+2017-08-14 15:30:34 INFO  LoginCommand:86 - execute end
+2017-08-14 22:51:04 INFO  EmptyCommand:18 - execute start
+2017-08-14 22:51:04 INFO  EmptyCommand:19 - execute end
+2017-08-14 22:51:30 INFO  EmptyCommand:18 - execute start
+2017-08-14 22:51:30 INFO  EmptyCommand:19 - execute end
+2017-08-14 22:52:32 INFO  LoginCommand:29 - execute start
+2017-08-14 22:52:33 INFO  ClientDAO:33 - client admin was added
+2017-08-14 22:52:34 WARN  ClientDAO:37 - client admin error
+2017-08-14 22:52:39 INFO  LoginCommand:29 - execute start
+2017-08-14 22:52:39 INFO  ClientDAO:33 - client admin was added
+2017-08-14 22:52:39 WARN  ClientDAO:37 - client admin error
+2017-08-14 22:52:41 INFO  LoginCommand:29 - execute start
+2017-08-14 22:52:41 INFO  ClientDAO:33 - client admin was added
+2017-08-14 22:52:41 WARN  ClientDAO:37 - client admin error
+2017-08-14 22:56:59 INFO  LoginCommand:29 - execute start
+2017-08-14 22:57:00 INFO  ClientDAO:33 - client admin was added
+2017-08-14 22:57:00 WARN  ClientDAO:37 - client admin error
+2017-08-14 22:58:01 INFO  EmptyCommand:18 - execute start
+2017-08-14 22:58:01 INFO  EmptyCommand:19 - execute end
+2017-08-14 22:58:09 INFO  LoginCommand:29 - execute start
+2017-08-14 22:58:09 WARN  ClientDAO:57 - client login error
+2017-08-14 22:58:10 INFO  LoginCommand:87 - execute end

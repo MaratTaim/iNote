@@ -1,0 +1,20 @@
+#error_page, #main {
+    float: none;
+    margin: 150px 200px;
+    font: 30px Century Gothic,Tahoma, Arial, sans-serif;
+    /*border: 2px #ea4c88 solid;*/
+    text-align: center;
+}
+
+.text {
+    color: #606468;
+}
+
+#error_page {
+    color: dodgerblue;
+}
+
+.small{
+    color: red;
+    font: 20px Century Gothic,Tahoma, Arial, sans-serif;;
+}

@@ -1,0 +1,105 @@
+.search {
+    width: 100%;
+    position: relative;
+}
+
+.search input {
+    border: none;
+}
+
+.search .input {
+    width: 100%;
+    padding: 8px 37px 9px 15px;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.1), inset 0 1px 2px rgba(0, 0, 0, 0.3);
+    border-radius: 20px;
+    background: #EEE;
+    font: 13px Tahoma, Arial, sans-serif;
+    color: #555;
+    outline: none;
+}
+
+.search .input:focus {
+    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2), inset 0 1px 2px rgba(0, 0, 0, 0.4);
+    background: #E8E8E8;
+    color: #333;
+}
+
+.search .submit {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 37px;
+    height: 100%;
+    cursor: pointer;
+    background: url(https://lh4.googleusercontent.com/-b-5aBxcxarY/UAfFW9lVyjI/AAAAAAAABUg/gQtEXuPuIds/s13/go.png) 50% no-repeat;
+    opacity: 0.5;
+}
+
+.search .submit:hover {
+    opacity: 0.8;
+}
+
+input[type="search"] {
+    -webkit-appearance: none;
+}
+
+input {
+    width: 50%;
+    border: none;
+    padding: 8px 37px 9px 15px;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.1), inset 0 1px 2px rgba(0, 0, 0, 0.3);
+    border-radius: 20px;
+    background: #EEE;
+    font: 13px Tahoma, Arial, sans-serif;
+    color: #555;
+    outline: none;
+}
+
+.vvod .submit:hover {
+    color: white;
+    background-color: #f60;
+}
+
+th {
+    font-family: Century Gothic sans-serif;
+    padding: 10px 0px;
+    color:#f60;
+}
+select{
+    border: none;
+    background: #EEE;
+    width:100%
+}
+
+td {
+    border: none;
+    padding: 0px 5px 2px 5px;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.1), inset 0 1px 2px rgba(0, 0, 0, 0.3);
+    border-radius: 7px;
+    background: #EEE;
+    font: 13px Tahoma, Arial, sans-serif;
+    color: #555;
+    outline: none;
+    text-align: center;
+}
+
+img {
+    margin: 3px 0px 0px 0px;
+}
+
+#add, #back, .language {
+    width: 150px;
+    margin: 0px 10px;
+    background-color: #f60;
+    color: white;
+    text-align: center;
+}
+
+
+
