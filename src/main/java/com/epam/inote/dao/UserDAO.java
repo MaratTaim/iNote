@@ -128,8 +128,8 @@ public class UserDAO extends AbstractDao<String> {
 
     public Collection<User> getBirthday(int day, int month){
         List<User> users = new ArrayList<>();
-        users.addAll(getPart(day,month,SELECT_BD));
-        users.addAll(getPart(day,month,SELECT_NOT_BD));
+        users.addAll(getPart(month,day,SELECT_BD));
+        users.addAll(getPart(month,day,SELECT_NOT_BD));
         return users;
     }
 
