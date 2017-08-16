@@ -133,10 +133,10 @@ public class UserDAO extends AbstractDao<String> {
         return users;
     }
 
-    private Collection<User> getPart(int day, int month, String sql) {
+    private Collection<User> getPart(int month, int day, String sql) {
         try (PreparedStatement st = connection.prepareStatement(sql)) {
-            st.setInt(ONE, day);
-            st.setInt(TWO, month);
+            st.setInt(ONE, month);
+            st.setInt(TWO, day);
             return findAll(st.executeQuery()).values();
 
         } catch (SQLException e) {
